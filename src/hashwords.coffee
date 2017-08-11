@@ -1,4 +1,4 @@
-md5 = require('./md5').md5
+md5 = require('md5')
 adjectives = require('./adjectives')
 nouns = require('./nouns')
 _defaults = require('lodash/object/defaults')
